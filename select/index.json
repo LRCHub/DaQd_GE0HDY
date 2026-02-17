@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アタマモミ",
+  "base_artist": "はるまきごはん",
+  "createdAt": "2026-02-17T18:58:08.870967Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アタマモミ",
+      "artist": "はるまきごはん",
+      "has_synced": false,
+      "path": "select/pl_01_アタマモミ_はるまきごはん.txt"
+    }
+  ]
+}
